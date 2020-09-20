@@ -93,3 +93,14 @@ Tested on Nvidia K80 GPU with CUDA 9.0, with Anaconda Python 3.6
 - **data** : Include example a small amount of data in the Github repository so tests can be run to validate installatio
 - **static** : Any images or content to include in the README or web framework if part of the pipeline
 - to be continueed
+
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
